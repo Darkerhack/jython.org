@@ -1,7 +1,7 @@
-### Hi there, I'm Darker - aka [Darkerhack] 👋
+### Hi there, I'm Darker - aka [Darkerhack] 👋  
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Dark3rH4cK?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=Dark3rH4cK)
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=Darkerhack&show_icons=true&theme=radical" width="380">
+<img align='right' src="https://media-exp1.licdn.com/dms/image/C5116AQFVT7gvje8vOA/profile-displaybackgroundimage-shrink_200_800/0/1565363770159?e=1611792000&v=beta&t=wVfMNqeDW_hKtG97KtU4Hynf0dUGGpElms_l3O2modQ" width="380">
 
 ## I'm a Hacker, Bug Bounty Hunter and CTF Player!!
 
@@ -21,5 +21,8 @@
 [twitter]: https://twitter.com/Dark3rH4cK
 [linkedin]: https://www.linkedin.com/in/raj-prajapati-26a590135/
 [CTFTime]: https://ctftime.org/user/53382
+
+
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=Darkerhack&show_icons=true&theme=radical" width="380">
 
 <br/>
