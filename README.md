@@ -23,17 +23,7 @@
 [linkedin]: https://www.linkedin.com/in/raj-prajapati-26a590135/
 [CTFTime]: https://ctftime.org/user/53382
 
+<img align='center' src="https://media1.tenor.com/images/5edf7e9bf0b06b64b60c89d81c2743dd/tenor.gif?itemid=19346117" width="380">
 
-<pre align="center">
-
-▗  ▖            ▗▄▖         ▐           ▐           ▐    ▗
-▐  ▌ ▄▖ ▗ ▗     ▐ ▝▖ ▄▖  ▖▄ ▐ ▗  ▄▖  ▖▄ ▐▗▖  ▄▖  ▄▖ ▐ ▗  ▐
-▐▄▄▌▐▘▐ ▝▖▞     ▐  ▌▝ ▐  ▛ ▘▐▗▘ ▐▘▐  ▛ ▘▐▘▐ ▝ ▐ ▐▘▝ ▐▗▘  ▐
-▐  ▌▐▀▀  ▙▌     ▐  ▌▗▀▜  ▌  ▐▜  ▐▀▀  ▌  ▐ ▐ ▗▀▜ ▐   ▐▜   ▝
-▐  ▌▝▙▞  ▜      ▐▄▞ ▝▄▜  ▌  ▐ ▚ ▝▙▞  ▌  ▐ ▐ ▝▄▜ ▝▙▞ ▐ ▚  ▐
-         ▞
-
-
-</pre>
 
 <br/>
