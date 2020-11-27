@@ -4,7 +4,7 @@
 
 [![](https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=height:60/https://www.filepicker.io/api/file/DKIWoDnSdeHEJe4jxsiw)](https://github.com/secarmy/resources)
 
-<img align='right' src="https://media1.tenor.com/images/5edf7e9bf0b06b64b60c89d81c2743dd/tenor.gif?itemid=19346117" width="380">
+<img align='right' src="https://media1.giphy.com/media/26gQt4FJ6gd6DUGFW/giphy.gif" width="380">
 
 
 
