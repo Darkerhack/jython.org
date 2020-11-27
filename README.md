@@ -14,7 +14,7 @@
 - 😇 Fun fact: I love to watch **Netflix** and exploit stuffs.
 
 
-### Connect with me:
+### Connect with me :
 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -28,7 +28,7 @@
 </br>
 
 
-<h3> 📈 </h3>
+### 📈 My Github Stats:
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Darkerhack&show_icons=true&theme=gotham" alt="Darkerhack" />
 
