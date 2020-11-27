@@ -2,6 +2,8 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Dark3rH4cK?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=Dark3rH4cK)
 
+[![](https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=height:60/https://www.filepicker.io/api/file/DKIWoDnSdeHEJe4jxsiw)](https://github.com/secarmy/resources)
+
 <img align='right' src="https://media1.tenor.com/images/5edf7e9bf0b06b64b60c89d81c2743dd/tenor.gif?itemid=19346117" width="380">
 
 
@@ -12,6 +14,7 @@
 - 🔥 I’m currently learning and hacking on hackeone
 - 🤗 I’m looking to collaborate with other Hackers around the world
 - 😇 Fun fact: I love to watch **Netflix** and exploit stuffs.
+
 
 
 ### Connect with me :
