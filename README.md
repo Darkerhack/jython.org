@@ -3,12 +3,6 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/Dark3rH4cK?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=Dark3rH4cK)
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=Darkerhack&show_icons=true&theme=radical" width="380">
 
-▗  ▖            ▗▄▖         ▐           ▐           ▐    ▗
-▐  ▌ ▄▖ ▗ ▗     ▐ ▝▖ ▄▖  ▖▄ ▐ ▗  ▄▖  ▖▄ ▐▗▖  ▄▖  ▄▖ ▐ ▗  ▐
-▐▄▄▌▐▘▐ ▝▖▞     ▐  ▌▝ ▐  ▛ ▘▐▗▘ ▐▘▐  ▛ ▘▐▘▐ ▝ ▐ ▐▘▝ ▐▗▘  ▐
-▐  ▌▐▀▀  ▙▌     ▐  ▌▗▀▜  ▌  ▐▜  ▐▀▀  ▌  ▐ ▐ ▗▀▜ ▐   ▐▜   ▝
-▐  ▌▝▙▞  ▜      ▐▄▞ ▝▄▜  ▌  ▐ ▚ ▝▙▞  ▌  ▐ ▐ ▝▄▜ ▝▙▞ ▐ ▚  ▐
-         ▞
 
 ## I'm a Hacker, Bug Bounty Hunter and CTF Player!!
 
@@ -30,5 +24,16 @@
 [CTFTime]: https://ctftime.org/user/53382
 
 
+<pre align="center">
+
+▗  ▖            ▗▄▖         ▐           ▐           ▐    ▗
+▐  ▌ ▄▖ ▗ ▗     ▐ ▝▖ ▄▖  ▖▄ ▐ ▗  ▄▖  ▖▄ ▐▗▖  ▄▖  ▄▖ ▐ ▗  ▐
+▐▄▄▌▐▘▐ ▝▖▞     ▐  ▌▝ ▐  ▛ ▘▐▗▘ ▐▘▐  ▛ ▘▐▘▐ ▝ ▐ ▐▘▝ ▐▗▘  ▐
+▐  ▌▐▀▀  ▙▌     ▐  ▌▗▀▜  ▌  ▐▜  ▐▀▀  ▌  ▐ ▐ ▗▀▜ ▐   ▐▜   ▝
+▐  ▌▝▙▞  ▜      ▐▄▞ ▝▄▜  ▌  ▐ ▚ ▝▙▞  ▌  ▐ ▐ ▝▄▜ ▝▙▞ ▐ ▚  ▐
+         ▞
+
+
+</pre>
 
 <br/>
