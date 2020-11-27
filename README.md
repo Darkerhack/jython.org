@@ -28,7 +28,7 @@
 </br>
 
 
-<h3> 📈 My Github stats </h3>
+<h3> 📈 </h3>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Darkerhack&show_icons=true&theme=gotham" alt="Darkerhack" />
 
