@@ -11,7 +11,7 @@
 
 ## I'm a Hacker, Bug Bounty Hunter and CTF Player!!
 
-- 🔥 I’m currently learning and hacking on HackeOne
+- 🔥 I’m currently learning and hacking on HackerOne
 - 🤗 I’m looking to collaborate with other Hackers around the world
 - 😇 Fun fact: I love to watch **Netflix** and exploit stuffs.
 
