@@ -9,7 +9,7 @@
 
 
 
-## I'm a Hacker, Bug Bounty Hunter and CTF Player!!
+## I'm a Security Researcher, Bug Bounty Hunter and CTF Player!!
 
 - 🔥 I’m currently learning and hacking on HackerOne
 - 🤗 I’m looking to collaborate with other Hackers around the world
