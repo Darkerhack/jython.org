@@ -9,11 +9,13 @@
 
 
 
-## I'm a Security Researcher, Bug Bounty Hunter and CTF Player!!
+## I'm a Data Analyst, Security Researcher, and CTF Player!!
 
-- 🔥 I’m currently learning and hacking on HackerOne
-- 🤗 I’m looking to collaborate with other Hackers around the world
-- 😇 Fun fact: I love to watch **Netflix** and exploit stuffs.
+- 🔍 Actively advancing skills in data analytics
+- 💻 Engaged in impactful data analysis projects
+- 📊 Proficient in Python, R, SQL, and machine learning
+- 🌐 Seeking collaboration with data enthusiasts
+- 📈 Committed to delivering actionable insights
 
 
 
@@ -26,8 +28,8 @@
 
 
 [twitter]: https://twitter.com/Dark3rH4cK
-[linkedin]: https://www.linkedin.com/in/raj-prajapati-26a590135/
-[CTFTime]: https://ctftime.org/user/53382
+[linkedin]: https://www.linkedin.com/in/raj-prajapati455
+
 </br>
 
 
