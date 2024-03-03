@@ -10,7 +10,6 @@
 
 
 ## I'm a Data Analyst, Security Researcher, and CTF Player!!
-
 - 🔍 Actively advancing skills in data analytics
 - 💻 Engaged in impactful data analysis projects
 - 📊 Proficient in Python, R, SQL, and machine learning
