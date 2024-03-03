@@ -1,4 +1,4 @@
-### Hi there, I'm Darker - aka [Darkerhack] 👋  
+### Hi there, I'm Raj 👋  
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Dark3rH4cK?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=Dark3rH4cK)
 
