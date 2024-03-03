@@ -10,7 +10,6 @@
 - 📊 Proficient in Python, R, SQL, and machine learning
 - 🌐 Seeking collaboration with data enthusiasts
 - 📈 Committed to delivering actionable insights
-
 <img align='right' src="https://media1.giphy.com/media/26gQt4FJ6gd6DUGFW/giphy.gif" width="380">
 
 ### Connect with me :
