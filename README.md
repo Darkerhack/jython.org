@@ -28,7 +28,6 @@
 [twitter]: https://twitter.com/Dark3rH4cK
 [linkedin]: https://www.linkedin.com/in/raj-prajapati455
 
-</br>
 
 
 ### 📈  My Github Stats:
