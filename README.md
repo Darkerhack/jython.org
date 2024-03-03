@@ -6,6 +6,8 @@
 
 <img align='right' src="https://media1.giphy.com/media/26gQt4FJ6gd6DUGFW/giphy.gif" width="380">
 
+
+
 ## I'm a Data Analyst, Security Researcher, and CTF Player!!
 - 🔍 Actively advancing skills in data analytics
 - 💻 Engaged in impactful data analysis projects
@@ -16,8 +18,9 @@
 
 ### Connect with me :
 
-<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
 
 [twitter]: https://twitter.com/Dark3rH4cK
 [linkedin]: https://www.linkedin.com/in/raj-prajapati455
