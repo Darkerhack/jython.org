@@ -9,13 +9,12 @@
 <img align='right' src="https://media1.giphy.com/media/26gQt4FJ6gd6DUGFW/giphy.gif" width="380">
 
 
-## I'm a Data Analyst, Security Researcher, and CTF Player!!
-- 🔍 Actively advancing skills in data analytics
-- 💻 Engaged in impactful data analysis projects
-- 📊 Proficient in Python, R, SQL, and machine learning
-- 🌐 Seeking collaboration with data enthusiasts
-- 📈 Committed to delivering actionable insights
-
+## I'm a Data Analyst, Security Researcher, and CTF Player!!  
+- 🔍 Actively advancing skills in data analytics  
+- 💻 Engaged in impactful data analysis projects  
+- 📊 Proficient in Python, R, SQL, and machine learning  
+- 🌐 Seeking collaboration with data enthusiasts  
+- 📈 Committed to delivering actionable insights  
 
 
 
