@@ -4,9 +4,9 @@
 
 [![](https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=height:60/https://www.filepicker.io/api/file/DKIWoDnSdeHEJe4jxsiw)](https://github.com/secarmy/resources)
 
+
+
 <img align='right' src="https://media1.giphy.com/media/26gQt4FJ6gd6DUGFW/giphy.gif" width="380">
-
-
 
 
 ## I'm a Data Analyst, Security Researcher, and CTF Player!!
