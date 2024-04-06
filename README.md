@@ -8,7 +8,7 @@
 
 
 
-## I'm a Data Analyst, Security Researcher, and CTF Player!!
+## I'm a Data Analyst, Security Researcher, and Leveraging Data for Business Intelligence"!!
 
 - 🔍 Actively advancing skills in data analytics
 - 💻 Engaged in impactful data analysis projects
