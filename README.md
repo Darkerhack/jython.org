@@ -10,11 +10,17 @@
 
 ## I'm a Data Analyst, Security Researcher, and Leveraging Data for Business Intelligence!!
 
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
+
 - 🔍 Actively advancing skills in data analytics
 - 💻 Engaged in impactful data analysis projects
 - 📊 Proficient in Python, R, SQL, and machine learning
 - 🌐 Seeking collaboration with data enthusiasts
 - 📈 Committed to delivering actionable insights
+  
+
 
 <h3> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
