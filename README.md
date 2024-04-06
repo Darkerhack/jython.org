@@ -18,7 +18,7 @@
 - 💻 Engaged in impactful data analysis projects
 - 📊 Proficient in Python, R, SQL, and machine learning
 - 🌐 Seeking collaboration with data enthusiasts
-- 📈 Committed to delivering actionable insights
+- 📈 Dedicated to delivering actionable insights
   
 
 
