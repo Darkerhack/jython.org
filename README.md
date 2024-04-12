@@ -4,11 +4,11 @@ Raj</a></h1>
 
 <!-- [![Twitter Follow](https://img.shields.io/twitter/follow/Dark3rH4cK?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=Dark3rH4cK) -->
 
-<div align="center">
+<p align="center">
   <a href="https://github.com/secarmy/resources">
-    <img src="https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=height:60/https://www.filepicker.io/api/file/DKIWoDnSdeHEJe4jxsiw" alt="SecArmy Resources">
+        <img src="https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=height:60/https://www.filepicker.io/api/file/DKIWoDnSdeHEJe4jxsiw" alt="SecArmy Resources">
   </a>
-</div>
+</p>
 
 
 <!-- <img align='right' src="https://media1.giphy.com/media/26gQt4FJ6gd6DUGFW/giphy.gif" width="380"> -->
